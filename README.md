@@ -4,5 +4,6 @@
 - Zaldivar Rico William Oceloth ---- 311129421 
 - David Iván Morales Campos ---- 313327726
 
-Overleaf: https://es.overleaf.com/3815942861tpmdnwcbqbcv
-Diagrama: https://drive.google.com/file/d/1h4OfKhlGUMe391odp8p7xjDLaAJ1KSDh/view?usp=sharing
+# Recursos
+-Overleaf: https://es.overleaf.com/3815942861tpmdnwcbqbcv
+- Diagrama: https://drive.google.com/file/d/1h4OfKhlGUMe391odp8p7xjDLaAJ1KSDh/view?usp=sharing
